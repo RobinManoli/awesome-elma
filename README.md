@@ -10,11 +10,11 @@ A curated list of Elma community assets, projects, development resources, etc.
 - [elmastats](http://stats.sshoyer.net/) - a statistics site
 
 ## Libraries
-- [Node.js](https://github.com/elmadev/node-elma) - a library for reading and writing Elasto Mania files
-- [Python](https://github.com/sigvef/elma) - a library for manipulating Elasto Mania files
-- [Rust](https://github.com/elmadev/elma-rust) - a library for dealing with levels, reading and writing replays
+- [elmajs](https://github.com/elmadev/node-elma) - a library for reading and writing Elasto Mania files
+- [Elma Python Library](https://github.com/elmadev/elma-python) - a library for manipulating Elasto Mania files
+- [elma-rust](https://github.com/elmadev/elma-rust) - a library for dealing with levels, reading and writing replays
 - [recplayer](https://github.com/Maxdamantus/recplay) - level/replay interpreter/renderer in JS/canvas; used on recsource.tv
-- [Python (Across)](https://github.com/domi-id/across) - a library for manipulating Action SuperCross files
+- [Action SuperCross Python Library](https://github.com/domi-id/across) - a library for manipulating Action SuperCross files
 
 ## Utilities
 - [Elmanager](https://gitlab.com/Smibu/elmanager) - a manager program written in C#, features include replay searching and viewing and a level editor
